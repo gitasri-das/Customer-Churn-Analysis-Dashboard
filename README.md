@@ -126,10 +126,10 @@ The dashboard helps organizations:
 # 📷 Dashboard Preview
 
 ### Executive Overview
-(Add Screenshot Here)
+![Executive Overview](Images/Executive%20Overview.png)
 
 ### Customer Segmentation & Deep Dive
-(Add Screenshot Here)
+![Customer Segmentation & Deep Dive](Images/Customer%20Segmentation%20%26%20Deep%20Dive.png)
 
 ---
 
